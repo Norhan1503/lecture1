@@ -1,4 +1,4 @@
-n=int(input('enter no'))
+n=int(input('enter number:'))
 def factorial(n):
     fact=1
     for i in range(1,n+1):

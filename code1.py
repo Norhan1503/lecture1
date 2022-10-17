@@ -1,6 +1,6 @@
 def max (x,y):
     if (x>=y):
-       retuen x
+       return x
     else:
        return y
- print(max(5,10))
+print(max(5,10))
